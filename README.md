@@ -1,0 +1,2 @@
+- 👋 Olá, sou Lucas
+- 🌱 Estou aprendendo Javascript
